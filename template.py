@@ -21,6 +21,7 @@ list_of_projects = [
     f"{project_name}/pipeline/training.py",
     f"{project_name}/pipeline/__init__.py",
     f"{project_name}/pipeline/prediction.py",
+    f"{project_name}/research/trails.ipynb",
     "app.py",
     "requirements.txt",
     "setup.py"
